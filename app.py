@@ -11,7 +11,7 @@ st.set_page_config(
 
 # --- Backend API Configuration ---
 # This is the public URL of your working backend on Hugging Face.
-BACKEND_URL = "https://jatingoyal10-gemini-one.hf.space"
+BACKEND_URL = "https://jatingoyal10-gemini-two.hf.space"
 
 # --- Session State Management ---
 # This is how Streamlit remembers things between user interactions.
